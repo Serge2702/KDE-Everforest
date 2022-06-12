@@ -28,7 +28,7 @@ ForegroundInactive=122,132,120
 ForegroundLink=127,187,179
 ForegroundNegative=230,126,128
 ForegroundNeutral=219,188,127
-ForegroundNormal=253,246,227
+ForegroundNormal=211,198,170
 ForegroundPositive=141,161,1
 ForegroundVisited=214,153,182
 
@@ -40,12 +40,12 @@ BackgroundAlternate=147,178,89
 BackgroundNormal=167,192,128
 DecorationFocus=167,192,128
 DecorationHover=167,192,128
-ForegroundActive=253,246,227
+ForegroundActive=47,56,62
 ForegroundInactive=122,132,120
 ForegroundLink=127,187,179
 ForegroundNegative=230,126,128
 ForegroundNeutral=219,188,127
-ForegroundNormal=253,246,227
+ForegroundNormal=47,56,62
 ForegroundPositive=141,161,1
 ForegroundVisited=214,153,182
 
@@ -59,7 +59,7 @@ ForegroundInactive=122,132,120
 ForegroundLink=127,187,179
 ForegroundNegative=230,126,128
 ForegroundNeutral=219,188,127
-ForegroundNormal=253,246,227
+ForegroundNormal=211,198,170
 ForegroundPositive=141,161,1
 ForegroundVisited=214,153,182
 
@@ -73,7 +73,7 @@ ForegroundInactive=122,132,120
 ForegroundLink=127,187,179
 ForegroundNegative=230,126,128
 ForegroundNeutral=219,188,127
-ForegroundNormal=253,246,227
+ForegroundNormal=211,198,170
 ForegroundPositive=141,161,1
 ForegroundVisited=214,153,182
 
@@ -87,12 +87,12 @@ ForegroundInactive=122,132,120
 ForegroundLink=127,187,179
 ForegroundNegative=230,126,128
 ForegroundNeutral=219,188,127
-ForegroundNormal=253,246,227
+ForegroundNormal=211,198,170
 ForegroundPositive=141,161,1
 ForegroundVisited=214,153,182
 
 [General]
-ColorScheme=Nordic
+ColorScheme=Everforest
 Name=Everforest
 shadeSortColumn=true
 
@@ -102,7 +102,7 @@ contrast=4
 [WM]
 activeBackground=47,56,62
 activeBlend=47,56,62
-activeForeground=253,246,227
+activeForeground=211,198,170
 inactiveBackground=47,56,62
 inactiveBlend=47,56,62
 inactiveForeground=122,132,120
