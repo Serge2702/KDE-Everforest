@@ -4,4 +4,5 @@ Everforest Colorscheme for KDE
 
 ## Installation
 Copy file Everforest.colors to ~/.local/share/color-schemes
+
 Then, select it on System Settings -> Appearance -> Colors
